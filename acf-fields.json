@@ -1,0 +1,11 @@
+| Field                 | Type                        |
+| --------------------- | --------------------------- |
+| Announcement Text     | Text                        |
+| Site Logo             | Image                       |
+| Hero Image            | Image                       |
+| Hero Heading          | Text                        |
+| Hero Subheading       | Text                        |
+| Hero Button Text      | Text                        |
+| Hero Button Link      | URL                         |
+| Brand Logos           | Repeater → Image            |
+| New Arrivals Category | Taxonomy (Product Category) |
